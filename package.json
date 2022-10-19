@@ -1,0 +1,35 @@
+{
+  "name": "data-structures",
+  "version": "1.0.0",
+  "description": "Data structures built with js",
+  "main": "src/scripts/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astritdemiri11/js-data-structures.git"
+  },
+  "keywords": [
+    "data",
+    "structures",
+    "algorithms",
+    "linked",
+    "list",
+    "queue",
+    "stack",
+    "hash",
+    "heap",
+    "priority",
+    "queue",
+    "trie",
+    "tee",
+    "graph"
+  ],
+  "author": "Astrit Demiri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/astritdemiri11/js-data-structures/issues"
+  },
+  "homepage": "https://github.com/astritdemiri11/js-data-structures#readme"
+}
